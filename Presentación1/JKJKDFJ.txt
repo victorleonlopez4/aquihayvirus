@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+</head>
+	<title>Mi primera pagina con estilo</title>
+	<link rel="stylesheet" href="miestilo.css">
+
+<body>
+	<h1> MI PRIMERA PAGINA CON ESTILO</h1>
+	
+	<!-- Menu de navegacion del estilo -->
+	<ul class="navbar">
+	<li><a href="indice.html">pagina principal</a>
+		<li><a href="meditaciones.html">meditaciones</a>
+			<li><a href="ciudad.html">mi ciudad</a>
+				<li><a href="enlaces.html">enlaces</a></ul>
+		
+	<!-- contenido principal -->
+	<P>¡BIENVENIDO A MI PRIMERA PAGINA CON ESTILO!
+		
+		<P>No tiene imagenes, pero tienen estilo.
+		tambien tiene enlaces, aunque no te llevan a ningun sitio...
+			
+			<p>deberia haber mas cosas aqui, pero todavia nose que poner.
+				
+				<!-- firma y fecha de la pagina.¡solo por cortesia! -->
+				<address>creada el 04 de marzo de 2020<br> por mi mismo</address>
+		</body>
+</html>
